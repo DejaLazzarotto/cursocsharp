@@ -6,7 +6,10 @@ namespace CursoCSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Oi!");
+            Console.WriteLine("Bom dia!");
+
+            Console.ReadLine();
         }
     }
 }
